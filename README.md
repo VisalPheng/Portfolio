@@ -1,6 +1,6 @@
 # Portfolio
 
-A portfolio of my personal experiences and project. 
+A portfolio of my personal experiences and project. 😀😅😎
 
 ## Screenshots
 
