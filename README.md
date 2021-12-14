@@ -14,7 +14,7 @@ A portfolio of my personal experiences and project. 😀😅😎
 
 Clone the repository
 
-    git clone https://github.com/CSG6Project1/Sport-booking-system.git
+    git clone https://github.com/VisalPheng/Portfolio.git
 
 Install all the modules by using
 
