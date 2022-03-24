@@ -31,6 +31,12 @@ const userData = {
   },
   experience: [
     {
+      title: "Web Developer",
+      company: "Kumnit",
+      year: "Oct/2021 - Jan/2022",
+      desc: "Developed a real estate web application for a real estate company while ensuring maintainability and performance.",
+    },
+    {
       title: "Full-Stack Developer",
       company: "KELA",
       year: "2021",
