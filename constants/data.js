@@ -23,8 +23,8 @@ const userData = {
       "I'm a developer that loves building products and web applications that impact millions of lives",
     description: [
       `I've been developing full-stack application since when I was in sophomore year of my degree. I didn't know what full-stack meant at that time.`,
-      `After learning HTML and struggling with CSS, I came up with an idea of using bootstrap so that I don't have to style everything by myself. 🤣`,
-      `But now, I'm more than that. I've been coding in React, MongoDB, MySQL, Bootstrap, Tailwind, Typescript, C, C++, PHP, Assembly, etc. ( I'm not an expert but i'm tried. 😂🤣🤣 )`,
+      `After learning HTML and struggling with CSS, I came up with an idea of using bootstrap so that I don't have to style everything by myself.`,
+      `But now, I'm more than that. I've been coding in Vue, Nuxt.js, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, MySQL, Laravel, Flutter.`,
     ],
     currentProject: "Food Ordering System",
     currentProjectUrl: "",
@@ -43,7 +43,7 @@ const userData = {
       desc: "Developed a website for plant enthusiast to find and learn more and finding guides for more types of plants.",
     },
     {
-      title: "University",
+      title: "College",
       company: "Cambodia Academy of Digital Technology - CADT , Cambodia.",
       year: "2019 - Current",
       companyLink: "https://www.cadt.edu.kh/",
